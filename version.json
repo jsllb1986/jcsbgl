@@ -1,0 +1,9 @@
+{
+    "latest_version": "2.7.0",
+    "release_date": "2026-06-22",
+    "release_notes": "当前发布版本 V2.6.0\n\n1. OCR 批量识别证书信息\n2. 自动回填设备台账\n3. 检定周期跟踪与逾期预警\n4. 证书批量改名功能",
+    "downloads": {
+        "onefile": "https://github.com/jsllb1986/jcsbgl/releases/download/v2.7.0/update_v2.7.0.exe",
+        "folder": "https://github.com/jsllb1986/jcsbgl/releases/download/v2.7.0/update_v2.7.0_folder.zip"
+    }
+}
