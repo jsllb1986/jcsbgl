@@ -3,7 +3,7 @@
 {
   "latest_version": "2.7.0",
     "release_date": "2026-06-22",
-    "release_notes": "当前发布版本 V2.7.0\n\n1. OCR 批量识别证书信息\n2. 修复列配置后，自动回填设备台账正确列",
+    "release_notes": "当前发布版本 V2.7.0\n\n1. OCR 批量识别证书信息\n2.QQ群：119103225\n3. 修复列配置后，自动回填设备台账正确列",
   "downloads": {
     "onefile": "https://update.lionliu.top/releases/download/v2.7.0/update_v2.7.0.exe",
     "folder": "https://update.lionliu.top/releases/download/v2.7.0/update_v2.7.0_folder.zip"
