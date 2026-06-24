@@ -1,11 +1,9 @@
-
-
 {
-  "latest_version": "2.7.0",
-    "release_date": "2026-06-22",
-    "release_notes": "当前发布版本 V2.7.0\n\n1. OCR 批量识别证书信息\n2.QQ群：119103225\n3. 修复列配置后，自动回填设备台账正确列",
-  "downloads": {
-    "onefile": "https://update.lionliu.top/releases/download/v2.7.0/update_v2.7.0.exe",
-    "folder": "https://update.lionliu.top/releases/download/v2.7.0/update_v2.7.0_folder.zip"
-  }
+    "latest_version": "2.8.0",
+    "release_date": "2026-06-23",
+    "release_notes": "V2.8.0 更新内容\n\n1. 列配置中心改为独立页面，支持字段重命名与自定义字段\n2. 修复表头含特殊字符（换行符/emoji/全角符号）无法匹配的问题\n3. 修复近似字段误匹配（如「设备名称」错配「设备信息」）\n4. OCR 证书回填全路径统一走列配置，严格校验防止写错列\n5. 修复周检表/设备列表不跟随列配置的问题\n6. 证书管理：校准日期提取、过期行高亮与「已过期」筛选、批量移动证书\n7. 修复逾期预警中心「日期未知」卡片无法点击筛选的问题",
+    "downloads": {
+        "onefile": "https://update.lionliu.top/releases/download/v2.8.0/update_v2.8.0.exe",
+        "folder": "https://update.lionliu.top/releases/download/v2.8.0/update_v2.8.0_folder.zip"
+    }
 }
