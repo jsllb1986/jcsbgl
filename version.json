@@ -1,9 +1,9 @@
 {
-    "latest_version": "2.8.1",
-    "release_date": "2026-06-24",
-    "release_notes": "V2.8.1 更新内容\n\n1. 修复在线更新升级脚本执行失败的问题（PowerShell 编码 BUG）",
+    "latest_version": "2.9.0",
+    "release_date": "2026-07-01",
+    "release_notes": "V2.9.0 更新内容\n\n1. QQ群：119103225\n2. 增加 OCR 填写期间核查表\n3. 增加仪器配件管理\n4. 优化 BUG",
     "downloads": {
-        "onefile": "https://update.lionliu.top/releases/download/v2.8.1/update_v2.8.1.exe",
-        "folder": "https://update.lionliu.top/releases/download/v2.8.1/update_v2.8.1_folder.zip"
+        "onefile": "https://update.lionliu.top/releases/download/v2.9.0/update_v2.9.0.exe",
+        "folder": "https://update.lionliu.top/releases/download/v2.9.0/update_v2.9.0_folder.zip"
     }
 }
